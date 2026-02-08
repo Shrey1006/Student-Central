@@ -85,6 +85,10 @@ npm start
 </section>
 
 <section>
-  <h2>📄 License</h2>
-  <p>This project is licensed under the <strong>MIT License</strong>.</p>
+  <h2>👤 Author</h2>
+  <p>
+    <strong>Shreyansh Mojidra</strong><br />
+    Computer Engineering Student<br />
+    Veermata Jijabai Technological Institute (VJTI)
+  </p>
 </section>
